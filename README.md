@@ -1,6 +1,6 @@
 # MonitoringDashboard
 
-AWS CloudWatch & Grafana Integration – A Mini-Project on EC2 & Load Balancer Monitoring 🚀
+AWS CloudWatch & Grafana Integration – A Mini-Project on EC2 & Load Balancer Monitoring 
 🔹 Project: Real-time Monitoring of EC2 Instances & Load Balancer using AWS CloudWatch & Grafana
 🔹 Tech Stack: AWS (EC2, ALB, CloudWatch, IAM, S3, RDS, Glue) | Grafana | Python | Bash
 
